@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Copyright (C) 2003 - 2009
+    Computational Intelligence Research Group (CIRG@UP)
+    Department of Computer Science
+    University of Pretoria
+    South Africa
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+-->
+<document>
+  <properties>
+    <title>Welcome to CIlib</title>
+    <author email="gpampara@cs.up.ac.za">Gary Pampara</author>
+  </properties>
+  <body>
+    <section name="News">
+      <p>
+        CIlib 0.7.1 has been released. Get the new release from
+	<a
+	href="http://sourceforge.net/projects/cilib">Sourceforge.net</a>.
+      </p>
+    </section>
+    <section name="About CIlib">
+      <p>
+        CIlib (Computational Intelligence Library) is a collaborative component
+        based framework for developing
+        <a href="http://www.worldscinet.com/ijcia/ijcia.shtml">
+        Computational Intelligence
+	</a>
+	software in:
+      </p>
+      <ul>
+        <li>
+          <a href="http://en.wikipedia.org/wiki/Swarm_Intelligence">Swarm Intelligence</a>
+        </li>
+        <ul>
+          <li>Partcle Swarm Optimization</li>
+          <li>
+            <a href="http://en.wikipedia.org/wiki/Bee_colony_optimization">Bee Optimization Algorithms</a>
+          </li>
+          <li>Ant Colony Optimization (to be included - in progress)</li>
+        </ul>
+        <li>
+          <a href="http://en.wikipedia.org/wiki/Evolutionary_Computation">Evolutionary Computation</a>
+        </li>
+        <ul>
+          <li>
+            <a href="http://en.wikipedia.org/wiki/Genetic_algorithms">Genetic Algorithms</a>
+          </li>
+          <li>
+            <a href="http://en.wikipedia.org/wiki/Evolutionary_programming">Evolutionary Programming</a>
+          </li>
+          <li>
+            <a href="http://en.wikipedia.org/wiki/Evolution_strategy">Evolutionary Strategies</a>
+          </li>
+          <li>
+            <a href="http://en.wikipedia.org/wiki/Genetic_programming">Genetic Programming</a>
+          </li>
+          <li>
+            <a href="http://en.wikipedia.org/wiki/Differential_evolution">Differential Evolution</a>
+          </li>
+        </ul>
+        <li>
+          <a href="http://en.wikipedia.org/wiki/Neural_network">
+	  Neural Networks
+	  </a>
+        </li>
+        <li>
+          <a href="http://en.wikipedia.org/wiki/Artificial_immune_systems">
+	  Artifical Immune Systems (to be included)
+	  </a>
+        </li>
+        <li>
+          <a href="http://en.wikipedia.org/wiki/Fuzzy_Logic">Fuzzy Logic</a>
+        </li>
+        <li>Other meta-heuristics</li>
+        <ul>
+          <li>
+            <a href="http://en.wikipedia.org/wiki/Harmony_search">Harmony Search</a>
+          </li>
+        </ul>
+        <li>
+          <a href="">Game Playing</a>
+        </li>
+      </ul>
+      <p>
+        CIlib is maintained by the
+        <a href="http://cirg.cs.up.ac.za/">Computational Intelligence Reasearch Group</a>
+	hosted by the <a href="http://www.cs.up.ac.za/">Department of Computer Science</a>
+	at the
+        <a href="http://www.up.ac.za">University of Pretoria</a> in
+        <a href="http://www.southafrica.net/">South Africa</a>.
+      </p>
+    </section>
+    <section name="Licensing Information">
+      <p>
+        CIlib is distributred under the
+        <a href="http://www.fsf.org/licenses/gpl-2.0.html">GPL</a>.
+      </p>
+      <p><a href="http://cilib.sourceforge.net/GPLApproval.pdf">Approval</a>
+	for publishing University of Pretoria
+        <a href="http://re.up.ac.za/ip.html">Intellectual Property</a>.
+      </p>
+    </section>
+  </body>
+</document>
